@@ -1,0 +1,54 @@
+/bootstrap/compiled.php
+.env
+.env.*.php
+.env.php
+php_errors.log
+nginx-error.log
+nginx-access.log
+nginx-ssl.access.log
+nginx-ssl.error.log
+php-errors.log
+sftp-config.json
+selenium.php
+
+# for netbeans
+nbproject
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# vagrant runtime
+/.vagrant
+
+.phpintel
+
+/node_modules
+
+npm-debug.log
+
+/dist
